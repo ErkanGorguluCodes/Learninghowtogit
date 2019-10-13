@@ -1,0 +1,7 @@
+C:\Users\erkan\source\repos\Learning\FacebookPostLikes\bin\Debug\FacebookPostLikes.exe.config
+C:\Users\erkan\source\repos\Learning\FacebookPostLikes\bin\Debug\FacebookPostLikes.exe
+C:\Users\erkan\source\repos\Learning\FacebookPostLikes\bin\Debug\FacebookPostLikes.pdb
+C:\Users\erkan\source\repos\Learning\FacebookPostLikes\obj\Debug\FacebookPostLikes.csprojAssemblyReference.cache
+C:\Users\erkan\source\repos\Learning\FacebookPostLikes\obj\Debug\FacebookPostLikes.csproj.CoreCompileInputs.cache
+C:\Users\erkan\source\repos\Learning\FacebookPostLikes\obj\Debug\FacebookPostLikes.exe
+C:\Users\erkan\source\repos\Learning\FacebookPostLikes\obj\Debug\FacebookPostLikes.pdb
